@@ -5,7 +5,7 @@ Brightwheel interview
 
 How to install/run this service:
 
-Requirements: Python 3.7 or later
+Requirements: Python 3 or later
 1. Download the repo from github
 In terminal:
 2. Run python setup.py install
