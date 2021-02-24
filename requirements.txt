@@ -12,7 +12,7 @@ flake8==3.7.7
 pep8-naming==0.8.2
 
 # Pandas
-# numpy==1.16.3
+numpy==1.16.3
 pandas==0.25.0
 
 # Postgres
