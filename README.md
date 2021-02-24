@@ -3,10 +3,12 @@ Emily Martin
 2/24/2021
 Brightwheel interview
 
-How to install/run your service:
+How to install/run this service:
 
-1. Download the repo from gitlab
+Requirements: Python 3 or later
+1. Download the repo from github
 In terminal:
+<<<<<<< HEAD
 2. Cd into brightwheel directory
 
 I use conda environments - if you want to use that here are the instructions. if you don't, skip to python setup.py install. Itwill still work, but you might get some errors and have to manually install a couple packages first.
@@ -17,6 +19,11 @@ I use conda environments - if you want to use that here are the instructions. if
 4. Run python setup.py install
 5. Run python -m interview
 6. Run unit test by using the command pytest
+=======
+2. Run python setup.py install
+3. Run python -m interview
+4. Run unit test by using the command pytest
+>>>>>>> 04e902d2a56062fcc52374d6f71f66a00e08a3b6
 
 Output:
 (Sorry it prints a lot of warnings at the beginning)
@@ -58,6 +65,7 @@ Tradeoffs -
 
 6. You said limit this to 2 hours, so I want to be very candid about where I went over and fair to other candidates and your interview process. I had never pulled a table from the internet that was in HTML before. This took me about 2 hours to figure out on it's own. Aside from that one piece, I completed the rest of this within the 2 hours. I really wanted to be able to do the analysis with all the data, since that's the part I'm actually good at. 
 
+7. There's a notebook in the notebooks folder if you're interested in my scratch work.
 
 SQL Queries:
 I have them here since I don't save the final data frame in a table.
