@@ -3,9 +3,10 @@ Emily Martin
 2/24/2021
 Brightwheel interview
 
-How to install/run your service:
+How to install/run this service:
 
-1. Download the repo from gitlab
+Requirements: Python 3.7 or later
+1. Download the repo from github
 In terminal:
 2. Run python setup.py install
 3. Run python -m interview
