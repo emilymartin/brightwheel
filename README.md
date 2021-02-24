@@ -7,10 +7,16 @@ How to install/run your service:
 
 1. Download the repo from gitlab
 In terminal:
-2. Cd into brighwheel directory
-2. Run python setup.py install
-3. Run python -m interview
-4. Run unit test by using the command pytest
+2. Cd into brightwheel directory
+
+I use conda environments - if you want to use that here are the instructions. if you don't, skip to python setup.py install. Itwill still work, but you might get some errors and have to manually install a couple packages first.
+
+1. Conda create -n bright python=3
+2. Source activate bright
+3. conda install anaconda
+4. Run python setup.py install
+5. Run python -m interview
+6. Run unit test by using the command pytest
 
 Output:
 (Sorry it prints a lot of warnings at the beginning)
