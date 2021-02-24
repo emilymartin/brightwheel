@@ -7,7 +7,6 @@ How to install/run your service:
 
 1. Download the repo from gitlab
 In terminal:
-2. Cd into brighwheel directory
 2. Run python setup.py install
 3. Run python -m interview
 4. Run unit test by using the command pytest
@@ -52,6 +51,7 @@ Tradeoffs -
 
 6. You said limit this to 2 hours, so I want to be very candid about where I went over and fair to other candidates and your interview process. I had never pulled a table from the internet that was in HTML before. This took me about 2 hours to figure out on it's own. Aside from that one piece, I completed the rest of this within the 2 hours. I really wanted to be able to do the analysis with all the data, since that's the part I'm actually good at. 
 
+7. There's a notebook in the notebooks folder if you're interested in my scratch work.
 
 SQL Queries:
 I have them here since I don't save the final data frame in a table.
