@@ -1,0 +1,7 @@
+build
+dist
+interview.egg-info
+.eggs
+*.swp
+*.pyc
+*-checkpoint.ipynb
